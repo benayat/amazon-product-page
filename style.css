@@ -248,6 +248,7 @@ this midle sreen grid: left photos, midle discription, and right price
 .left_big_pictures img {
   max-width: 65vh;
   height: auto;
+  padding-left: 4px;
   margin-top: calc(3*var(--rem-equivalent));
 }
 
