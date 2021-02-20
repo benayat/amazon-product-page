@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .country, .account-name, .returns, .address, .middle-right, .image-div, .benayas-amazon{
   display: none;
 }
@@ -16,3 +17,23 @@
 .left_big_pictures{
   display: none;
 }
+=======
+.country, .account-name, .returns, .address, .middle-right, .image-div, .benayas-amazon{
+  display: none;
+}
+.middle-navbar{
+  display: flex;
+  justify-content: stretch;
+}
+
+.middle-left{
+  display: flex;
+  justify-content: space-evenly;
+}
+.main-grid{
+  grid-template-columns: max-content 3fr 1fr;
+}
+.left_big_pictures{
+  display: none;
+}
+>>>>>>> f77b654 (updating the js function - cickable left side pictures)
