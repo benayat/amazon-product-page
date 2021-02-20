@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 :root {
   --main-links-font-size: 2.4vh;
   --main-links-color: rgb(0, 113, 133);
@@ -647,6 +648,8 @@ aside a:hover, .second-page a:hover {
   to{ transform: translateX(0); }
 }
 =======
+=======
+>>>>>>> 7d99362 (Revert "Revert "updating the js function - cickable left side pictures"")
 :root {
   --main-links-font-size: 2.4vh;
   --main-links-color: rgb(0, 113, 133);
@@ -1294,4 +1297,7 @@ aside a:hover, .second-page a:hover {
   from{ transform: translateX(-100vw) }
   to{ transform: translateX(0); }
 }
+<<<<<<< HEAD
 >>>>>>> f77b654 (updating the js function - cickable left side pictures)
+=======
+>>>>>>> 7d99362 (Revert "Revert "updating the js function - cickable left side pictures"")

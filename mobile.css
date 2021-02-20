@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .country, .account-name, .returns, .address, .middle-right, .image-div, .benayas-amazon{
   display: none;
 }
@@ -18,6 +19,8 @@
   display: none;
 }
 =======
+=======
+>>>>>>> 7d99362 (Revert "Revert "updating the js function - cickable left side pictures"")
 .country, .account-name, .returns, .address, .middle-right, .image-div, .benayas-amazon{
   display: none;
 }
@@ -36,4 +39,7 @@
 .left_big_pictures{
   display: none;
 }
+<<<<<<< HEAD
 >>>>>>> f77b654 (updating the js function - cickable left side pictures)
+=======
+>>>>>>> 7d99362 (Revert "Revert "updating the js function - cickable left side pictures"")
